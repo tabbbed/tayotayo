@@ -1,0 +1,66 @@
+body {
+	background-image: url("galaxy.jpg");
+}
+.one {
+	background-image: url("1.jpg");
+	font-family: Cambria;
+	text-align: center;
+	padding:40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+.two {
+	background-image: url("4.jpg");
+	font-family: Cambria;
+	text-align: center;
+	padding:40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+.three {
+	background-image: url("dubai.jpg");
+	font-family: Cambria;
+	text-align: center;
+	padding:40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+.four {
+	background-image: url("2.jpg");
+	font-family: Cambria;
+	text-align: center;
+	padding:40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+.five {
+	background-image: url("1.jpg");
+	font-family: Cambria;
+	text-align: center;
+	padding:40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+.six {
+	background-image: url("4.jpg");
+	font-family: Cambria;
+	text-align: center;
+	padding:40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+img {
+  border-radius: 18px;
+}
